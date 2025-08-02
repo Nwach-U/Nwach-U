@@ -34,10 +34,10 @@ Hi, I'm **Nwachukwu Ubahakwe** 👋, a **Data Scientist | AI Engineer | Web Deve
 ---
 
 ## 💡 **Connect With Me**
-🌐 **Portfolio:** (https://bit.ly/leanAi)  
+🌐 **Portfolio:** https://bit.ly/leanAi  
 📩 **Email:** nubahakwe@gmail.com  
-💼 **LinkedIn:** (https://linkedin.com/in/nwachukwu-ubahakwe-37a30921)
-🐦 **X:** (https://x.com/nwach_u)  
+💼 **LinkedIn:** https://linkedin.com/in/nwachukwu-ubahakwe-37a30921
+🐦 **X:** https://x.com/nwach_u  
 
 ---
 
