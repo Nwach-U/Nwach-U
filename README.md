@@ -43,7 +43,7 @@ Hi, I'm **Nwachukwu Ubahakwe** 👋, a **Data Scientist | AI Engineer | Web Deve
 
 ## 🚀 **GitHub Stats**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nwach-U&show_icons=true&theme=default)
-![Top Languages]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nwach-U&layout=compact)
 
 ---
 
