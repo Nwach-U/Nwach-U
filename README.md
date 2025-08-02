@@ -34,16 +34,16 @@ Hi, I'm **Nwachukwu Ubahakwe** 👋, a **Data Scientist | AI Engineer | Web Deve
 ---
 
 ## 💡 **Connect With Me**
-🌐 **Portfolio:** [your-website.com](https://your-website.com)  
+🌐 **Portfolio:** [your-website.com](https://bit.ly/leanAi)  
 📩 **Email:** nubahakwe@gmail.com  
 💼 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/nwachukwu-ubahakwe-37a30921)
-🐦 **X:** [@yourhandle](https://twitter.com/yourhandle)  
+🐦 **X:** [@yourhandle](https://x.com/nwach_u)  
 
 ---
 
 ## 🚀 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Your GitHub Stats]
+![Top Languages]
 
 ---
 
